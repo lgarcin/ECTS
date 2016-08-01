@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ECTS</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string-array name="letters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="subjects">
+        <item>Maths</item>
+        <item>Physique</item>
+        <item>Français</item>
+        <item>SI</item>
+        <item>Anglais</item>
+        <item>Informatique</item>
+    </string-array>
+</resources>
